@@ -1,0 +1,28 @@
+html, body, p {
+    margin-top: 10;
+    padding: 0;
+    text-align: center;
+    background-image: url(https://i.pinimg.com/originals/4d/ae/60/4dae60fe3b00cda1a484a4cabaed19ad.jpg);
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    height: 100vh;
+    
+}
+
+#increment-btn {
+    background: aqua;
+    border-color: aqua;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.container {
+     background: green;
+    max-width: 80%;
+    margin: auto;
+    border: 3px solid black;
+    border-radius: 10px;
+}
+
+p { color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
